@@ -80,4 +80,4 @@ tags:
   - Domains: Planetary Health / Bioregional Computing / Cyber-Physical Systems
   - Frameworks: Automated Systemic Contingency & Bio-Sovereignty
 ---
-
+Academic Zenodo Submission Protocol
