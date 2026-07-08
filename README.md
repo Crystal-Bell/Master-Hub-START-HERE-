@@ -1,6 +1,9 @@
 # Master-Hub-START-HERE-
 Cenoté Coil: The Master Hub for Living Constraint Infrastructure. A transdisciplinary OS for autonomous stewardship. Choose your perspective: [Engineering] [Stewardship] [Humanity/Art]."
 
+agentic-ai, multi-agent-orchestration, planetary-health, mcp-server, climate-health, bioregional-computing, green-computing, agentic-governance, sovereign-data, adaptive-environments, open-science...
+
+
 
 ​Cenoté Coil: Master Hub
 ​Welcome to the core of the Cenoté Coil infrastructure. This hub organizes the Living Constraint Model into three primary navigation paths. Please select your perspective to access the relevant operational protocols:
