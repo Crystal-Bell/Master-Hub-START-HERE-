@@ -30,3 +30,4 @@ Transitional Aquaculture (Fan Li Protocol),
 Toxic Flora & Hazardous Habitat Safeguard,
 Decentralized, privacy-first protocol,
 "Haven Lock"/M.A.D.LINK
+Proposed Friction Reduction Protocols
