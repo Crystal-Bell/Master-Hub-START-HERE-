@@ -18,6 +18,9 @@ To move beyond industrial extraction and build an autonomous, self-sustaining la
 ​Provenance: Authenticated by Crystal Amber Charlton.
 System Status: Active / Developing...
 Companion Robotics & Animal Transition ProtocolCompetitive Infrastructure to Collaborative Stewardship.M.A.D. MOM: Central Command & Performance HubSanctuary Ethics & Boundary Protocol.
-Fleet OS Update: Acoustic Protocol
+Fleet OS Update: Acoustic Protocol,
 ​The "Sea Shanty & Work-Song Protocol" is now integrated into the Fleet OS as a core feature of the stewardship-focused infrastructure.
-Transitional Aquaculture (Fan Li Protocol)
+Transitional Aquaculture (Fan Li Protocol),
+Toxic Flora & Hazardous Habitat Safeguard
+,decentralized, privacy-first protocol
+Haven Lock
