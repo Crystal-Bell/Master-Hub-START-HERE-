@@ -17,10 +17,16 @@ Cenoté Coil: The Master Hub for Living Constraint Infrastructure. A transdiscip
 To move beyond industrial extraction and build an autonomous, self-sustaining landscape that harmonizes technology with biological life.
 ​Provenance: Authenticated by Crystal Amber Charlton.
 System Status: Active / Developing...
-Companion Robotics & Animal Transition ProtocolCompetitive Infrastructure to Collaborative Stewardship.M.A.D. MOM: Central Command & Performance HubSanctuary Ethics & Boundary Protocol.
+
+additional essential protocols:
+
+Companion Robotics & Animal Transition Protocol
+Competitive Infrastructure to Collaborative Stewardship.
+M.A.D. MOM: Central Command & Performance Hub
+Sanctuary Ethics & Boundary Protocol.
 Fleet OS Update: Acoustic Protocol,
-​The "Sea Shanty & Work-Song Protocol" is now integrated into the Fleet OS as a core feature of the stewardship-focused infrastructure.
+​The "Sea Shanty & Work-Song Protocol" ,
 Transitional Aquaculture (Fan Li Protocol),
-Toxic Flora & Hazardous Habitat Safeguard
-,decentralized, privacy-first protocol
-Haven Lock
+Toxic Flora & Hazardous Habitat Safeguard,
+Decentralized, privacy-first protocol,
+"Haven Lock"/M.A.D.LINK
