@@ -32,3 +32,5 @@ Decentralized, privacy-first protocol,
 "Haven Lock"/M.A.D.LINK
 Proposed Friction Reduction Protocols
 .."breaking change," "v2.0 overhauls," "next-generation standard," or "open interoperability."
+"semantic infrastructure framework", "global trust protocol", or "decentralized knowledge graph"Horizon Europe" "infrastructure framework". The European Union mandates that cutting-edge, state-funded software frameworks be archived on Zenodo.
+https://zenodo.org/records/21230335
