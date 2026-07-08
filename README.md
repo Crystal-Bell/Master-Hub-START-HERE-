@@ -20,3 +20,4 @@ System Status: Active / Developing...
 Companion Robotics & Animal Transition ProtocolCompetitive Infrastructure to Collaborative Stewardship.M.A.D. MOM: Central Command & Performance HubSanctuary Ethics & Boundary Protocol.
 Fleet OS Update: Acoustic Protocol
 ​The "Sea Shanty & Work-Song Protocol" is now integrated into the Fleet OS as a core feature of the stewardship-focused infrastructure.
+Transitional Aquaculture (Fan Li Protocol)
