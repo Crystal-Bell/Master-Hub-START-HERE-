@@ -81,3 +81,4 @@ tags:
   - Frameworks: Automated Systemic Contingency & Bio-Sovereignty
 ---
 Academic Zenodo Submission Protocol
+ /Tactical/Orbital-Mechanics-and-Aesthetic-Integration-Protocol
