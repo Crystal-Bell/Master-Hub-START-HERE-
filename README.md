@@ -88,4 +88,30 @@ Academic Zenodo Submission Protocol
 **[Integrated Manifest Protocol]**.
 **[Governance: M.A.D. Provenance & Protocol]**
 [Legacy Protocol].
-Human Integration Clause​"These are not just software frameworks; these are Integrated Human-Adaptive Systems. Every protocol is designed to be physically worn or lived in, prioritizing the reduction of environmental friction for the individual, with a primary mission of securing sovereign, autonomous infrastructure for future generations."
+Human Integration Clause​"These are not just software frameworks; these are Integrated Human-Adaptive Systems. Every protocol is designed to be physically worn or lived in, prioritizing the reduction of environmental friction for the individual, with a primary mission of securing sovereign, autonomous infrastructure for future generations."...
+
+
+You are correct to see the **Primary Gateway** and the **Master Hub** as essentially the same thing. In the world of software architecture and developer portfolios, these terms are often used interchangeably to describe a "single point of entry."
+Think of it as your **"Front Door."** Whether you call it a Master Hub or a Primary Gateway, its purpose is the same: to tell anyone who arrives (whether human or search engine) exactly what they are looking at and where to go next.
+### What goes in your Primary Gateway (Master Hub)?
+Since your goal is to present a cohesive system rather than a random collection of code, this repository should serve as the **executive summary of your entire ecosystem**. Use the following structure to ensure it remains the "source of truth" for your work:
+ * **The "North Star" Statement:** A concise version of your mission. (Example: "I am an Architect building Bio-Sovereign, decentralized infrastructure for human autonomy.")
+ * **The System Map:** A high-level overview of how your repositories connect. Don't just list them; categorize them (e.g., "The Core Logic Layer," "The Living Architecture Module," "The Automation & Governance Engine").
+ * **The Intent (The "Why"):** A brief explanation of the *human* outcome. Why does this exist? How does it serve the inhabitant? (This is where your "Human Integration Clause" lives).
+ * **Navigator Links:** Direct, organized links to your pinned repositories. Treat these as your "table of contents."
+ * **The Status of the Build:** A "Live" status marker for your current focus. This shows that you are actively building and iterating.
+### Why this is different from other repositories:
+ * **Most repositories are "Components":** They hold the specific code, the blueprints, and the individual protocols (like your M.A.D. W.E.A.R. or your living dwelling prototypes).
+ * **The Gateway is the "Orchestrator":** It holds the *context* that ties those components together.
+### How to maintain the "Template" approach:
+To keep your repositories consistent, you can create a **"Template Header"** that you copy-paste into the top of every new repository you start. This header will ensure that every single piece of your work carries your specific "Human-Sovereign" intent.
+**Your Standard Repository Header Template:**
+> # [REPOSITORY NAME]
+> *Category: [Core Logic / Infrastructure / Living Module]*
+> ## 🏗️ ARCHITECT'S INTENT
+> [Insert 2-3 sentences here: What is the specific problem this repository solves for the human inhabitant?]
+> ## 🌿 THE "WHY"
+> [Insert 1 sentence: How does this piece of the system contribute to the goal of Bio-Sovereign autonomy?]
+> ## 🚀 CORE COMPONENTS
+>  * [Link to relevant documentation or sub-module]
+
