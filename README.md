@@ -1,3 +1,4 @@
+[Legacy Protocol].
 # Master-Hub-START-HERE-
 Cenoté Coil: The Master Hub for Living Constraint Infrastructure. A transdisciplinary OS for autonomous stewardship. Choose your perspective: [Engineering] [Stewardship] [Humanity/Art]."
 Abstract: This record archives the core infrastructure of the Transdisciplinary OS (operating system) for robots, humans, and planetary health. It provides a machine-executable framework for agentic AI orchestration, bio-sovereign nodes, and systemic contingency protocols.
@@ -86,3 +87,4 @@ Academic Zenodo Submission Protocol
 
 **[Integrated Manifest Protocol]**.
 **[Governance: M.A.D. Provenance & Protocol]**
+[Legacy Protocol].
