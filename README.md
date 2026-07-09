@@ -5,7 +5,8 @@ I'm changing how the world can be and how we can all feel about ourselves. "
 
 [Dedicated provenance]:  
 The M.A.D.M.O.M. Project: A transdisciplinary OS built for my son. An inheritance of autonomy, infrastructure, and adaptive technology.
-
+​## PROVENANCE & LEGACY
+This system is a Generational Inheritance Protocol. It is designed as a blueprint for the next Architect to take over, iterate, and adapt. Every protocol, structure, and autonomous system built under the Crystal-Bell handle is a love letter to the future—specifically intended to secure the sovereignty and autonomy of my son. This is not just code; it is a legacy framework created so that he may never need to be at the mercy of a broken system.
 
 
 
