@@ -293,3 +293,5 @@ The "Guardian Tether" Protocol (GTP) Simulation
 HYBRID_FLEET_AERODYNAMICS.md
 ​The "Structural Integrity & Escape" Protocol (SIEP)
 The "Vitals-Based Alert" (VBA) Protocol Logic
+CONTINUITY_OF_CARE.md
+CONTINUITY_OF_CARE.md in your -Fleet-&-Operational-Systems-
