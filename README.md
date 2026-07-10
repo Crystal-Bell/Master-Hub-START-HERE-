@@ -288,4 +288,8 @@ HYBRID_FLEET_AERODYNAMICS.mdRepository Commit Checklist
 ​Emergency Detachment Logic: Add a note on the "instant-detach" scenario—where drones can break formation to provide immediate humanitarian support or remote resource delivery if the truck cannot access a site...
 
 autonomous continuity of operationsWeighted Consensus and Reputation Model.-Contribution-Integration-The Haven-Lock Override Protocol (HLOP)The "Living" Feedback Loop: 4-Stage Protocolautonomous-emergency-response-system. CONTRIBUTING.md
-Environmental-Awareness" clause sThe "Guardian Tether" Protocol (GTP) SimulationHYBRID_FLEET_AERODYNAMICS.md
+Environmental-Awareness" clause 
+The "Guardian Tether" Protocol (GTP) Simulation
+HYBRID_FLEET_AERODYNAMICS.md
+​The "Structural Integrity & Escape" Protocol (SIEP)
+The "Vitals-Based Alert" (VBA) Protocol Logic
