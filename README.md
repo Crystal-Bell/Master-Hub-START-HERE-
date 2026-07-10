@@ -295,3 +295,4 @@ HYBRID_FLEET_AERODYNAMICS.md
 The "Vitals-Based Alert" (VBA) Protocol Logic
 CONTINUITY_OF_CARE.md
 CONTINUITY_OF_CARE.md in your -Fleet-&-Operational-Systems-
+​The "Incident Command Integration" Protocol (ICIP)Protocol: Human-Preference Priority (HPP)
