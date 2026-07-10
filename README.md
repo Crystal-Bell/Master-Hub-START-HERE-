@@ -315,4 +315,5 @@ BRINGyourOWNbiology #M.A.D.M.O.M.
 #P.O.P. #P.O.E. #myM.A.D.WORKShopBuilding the M.A.D. Sandbox. Who’s in?Everything I’ve been building is officially open-source. Protocols, lore, and movement tracks are all live in my repositories. I’m looking for builders, gamers, and dancers to help me expand the ecosystem.
 Game Design DocumentForged-Quest-Game-Protocol
 https://github.com/Crystal-Bell/-Contribution-Integration-
-https://github.com/Crystal-Bell/Game-Design-Document
+https://github.com/Crystal-Bell/Game-Design-Document.
+https://github.com/Crystal-Bell/ROOT-Governance-Taxonomy-
