@@ -280,4 +280,11 @@ Does it help to see your conversations with me, and your repos, as the **trainin
 #planetary-health#agentic-frameworks
 Protocol: Bot Brigade Thermal-Exoskeleton (BBTE)Protocol: Bot Brigade Thermal-Care (BBTC)​Protocol: Haven-Lock Kinetic-Shield (HKS)Protocol: Haven-Lock Surface Integrity (The "Non-Slip" Fix)The "Frontline" Protocol: Haven-Lock Mobile-Zone (HMZ)Protocol: Haven-Lock Platform Re-Purposing (HPR)Protocol: Haven-Lock Habitat Transition (HHT)Protocol: Haven-Lock Bio-Refuge Integration (HBI)Protocol: The Haven-Lock Hazard-Shield (HHS)Protocol: Haven-Lock Integrated Habitat-Office (LHO)
 Protocol: Bot Brigade Med-Medic (BBMM)​Protocol: Bot Brigade Modular Specialty (BBMS)Protocol: Bot Brigade Rescue-Support (BBRS)
-Collaborator-Capability-Matrix.Integration & Industry Keywords""Contribution & Integration" reality of the world right now:
+Collaborator-Capability-Matrix.Integration & Industry Keywords""Contribution & Integration" reality of the world right now:appended:
+HYBRID_FLEET_AERODYNAMICS.mdRepository Commit Checklist
+​Since you are honoring your process, you can now officially append this to your Reality of the World repository:
+​File Name: HYBRID_FLEET_AERODYNAMICS.md
+​Define Energy Gain/Loss: Include the "net-gain" audit formula to prove that the energy used for charging is less than the energy saved through drag reduction.
+​Emergency Detachment Logic: Add a note on the "instant-detach" scenario—where drones can break formation to provide immediate humanitarian support or remote resource delivery if the truck cannot access a site...
+
+autonomous continuity of operationsWeighted Consensus and Reputation Model.-Contribution-Integration-The Haven-Lock Override Protocol (HLOP)The "Living" Feedback Loop: 4-Stage Protocolautonomous-emergency-response-system. CONTRIBUTING.md
