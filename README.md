@@ -307,4 +307,12 @@ Access: This protocol is designed for rapid integration by any emergency respons
 ​Reduces Fear: You want to break tension, not create it. "Open-Standard" sounds helpful and safe; "Classified" sounds like a threat....
 
 
-Mitigation Protocol.Freeze-Perch & Movement Protocol."Family Circle" Narrative Structure.https://github.com/Crystal-Bell/ForgeTunes
+Mitigation Protocol.Freeze-Perch & Movement Protocol."Family Circle" Narrative Structure.
+https://github.com/Crystal-Bell/ForgeTunes
+#MADWorks #SystemBuilding #ForgedQuest #Timberdoodle#OpenSource #CreativeCollaboration #GameDev #MovementArt#BYOB
+BRINGyourOWNbiology #M.A.D.M.O.M.
+#M.A.D.WORKSystems
+#P.O.P. #P.O.E. #myM.A.D.WORKShopBuilding the M.A.D. Sandbox. Who’s in?Everything I’ve been building is officially open-source. Protocols, lore, and movement tracks are all live in my repositories. I’m looking for builders, gamers, and dancers to help me expand the ecosystem.
+Game Design DocumentForged-Quest-Game-Protocol
+https://github.com/Crystal-Bell/-Contribution-Integration-
+https://github.com/Crystal-Bell/Game-Design-Document
