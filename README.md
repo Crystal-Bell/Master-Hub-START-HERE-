@@ -342,3 +342,5 @@ M.O.M. Sovereign OS: Decentralized infrastructure solutions for global drought, 
 Habitat Seal and the SparkX DEV-LAB designs
 
 https://github.com/Crystal-Bell/Forrest-City
+
+https://github.com/Crystal-Bell/MAD-Work-Manual-Interface.
