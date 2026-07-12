@@ -318,4 +318,7 @@ BRINGyourOWNbiology #M.A.D.M.O.M.
 Game Design DocumentForged-Quest-Game-Protocol
 https://github.com/Crystal-Bell/-Contribution-Integration-
 https://github.com/Crystal-Bell/Game-Design-Document.
-https://github.com/Crystal-Bell/ROOT-Governance-Taxonomy-
+https://github.com/Crystal-Bell/ROOT-Governance-Taxonomy-..
+
+
+https://github.com/Crystal-Bell/v1.0-CORE_MANIFESTO_INDEX
