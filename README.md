@@ -330,4 +330,7 @@ Mad Mom Momentum Architecture.
 [CORE INFRASTRUCTURE]: Living Infrastructure Mesh / Cenote Core
 [ETHICAL FRAMEWORK]: Operational Manifesto of Reciprocity (Repo 11)
 [PROTOCOL STATUS]: v1.0.0 — ACTIVE / SELF-REGULATING
-​System Scope: A sovereign physical operating system integrating M.A.D.-ware for humanitarian resilience, urban autonomy, and universal asset provenance. All nodes are bound by the Covenant of Care.
+​System Scope: A sovereign physical operating system integrating M.A.D.-ware for humanitarian resilience, urban autonomy, and universal asset provenance. All nodes are bound by the Covenant of Care..
+
+
+https://github.com/Crystal-Bell/Reality-of-the-world-today-JULY-12-2026https://github.com/Crystal-Bell/v1.0-CORE_MANIFESTO_INDEXIntegration Protocol for the Architecthttps://github.com/Crystal-Bell/M.O.M.-Decision-Matrix-Logic-Block-v1.0M.O.M. Decision Matrix: Logic Block v1.0Cross-Sectional Ranking and Single-Asset High-Frequency Executionhttps://github.com/Crystal-Bell/-Execution-Protocol-The-M.O.M.-Decision-Matrix​Execution Protocol: The M.O.M. Decision Matrix​M.O.M. Data-Product Schema (v1.0)https://github.com/Crystal-Bell/Repo-11-The-Operational-Manifesto-of-Reciprocity.
