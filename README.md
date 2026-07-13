@@ -344,3 +344,5 @@ Habitat Seal and the SparkX DEV-LAB designs
 https://github.com/Crystal-Bell/Forrest-City
 
 https://github.com/Crystal-Bell/MAD-Work-Manual-Interface.
+
+Hydraulic Infrastructure Restoration. geo-engineering tool to regulate natural water systems. 
