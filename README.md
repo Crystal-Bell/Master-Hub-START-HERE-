@@ -346,3 +346,19 @@ https://github.com/Crystal-Bell/Forrest-City
 https://github.com/Crystal-Bell/MAD-Work-Manual-Interface.
 
 Hydraulic Infrastructure Restoration. geo-engineering tool to regulate natural water systems. 
+
+Constraint Protocol:Stewardship-First Integration
+
+Provenance & Stewardship Constraint
+
+M.A.D. Suite Couch Protocol
+
+ M.A.D. Suite Sleeper Protocol (The Inclusion Layer)
+
+Sleeper Protocol to include Remote Site Supervision.
+
+Bed-to-Boardroom Protocol Deployment
+
+Comedy Critical Opinion Protocol v.4.2.
+
+Comedy Critical Opinion Protocol v.4.3
