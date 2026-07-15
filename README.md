@@ -1,3 +1,7 @@
+Ever watch a DIY video where they show you how to fix one tiny thing, but you still feel like you're stuck in a system that wasn't built for you? I’m tired of 'hacks' that don't actually make our lives better.I’m not here to show you how to unscrew one bolt. I’m here to show you how to look at any problem in your life—whether it's housing, gear, or just getting through the day—and build your own solution.My system is for the people who want to stop relying on broken infrastructure. It’s about taking control of your environment so you don’t have to wait for someone else to fix it.You don't need to be a systems architect to use this. You just need to want a better promise for your future. Welcome to a new way of functioning.
+❤️M.A.D.M.O.M #M.A.D.Works Systems Charter Etc.
+
+
 ​"Provenance Statement: This system is a humanitarian resource designed to reduce environmental friction. While the protocols are open for use, the provenance of this architecture is rooted in the work of Crystal Amber Charlton. This system is intended to be distributed freely to communities in need. Any commercial entity attempting to gate-keep, license, or charge for the implementation of these protocols in a way that limits public access is contrary to the intended function of this system."...
 ...
 
