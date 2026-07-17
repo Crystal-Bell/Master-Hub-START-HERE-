@@ -367,3 +367,5 @@ Bed-to-Boardroom Protocol Deployment
 Comedy Critical Opinion Protocol v.4.2.
 
 Comedy Critical Opinion Protocol v.4.3
+
+https://github.com/Crystal-Bell/v1.0-CORE_MANIFESTO_INDEX
